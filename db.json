@@ -16,9 +16,9 @@
       "brand": "Tata",
       "year": 2019,
       "type": "Manual",
-      "kms": 10000,
+      "km": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "price": 500000
     }
   ]
 }

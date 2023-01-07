@@ -20,7 +20,20 @@
       "desc": "Tata Altroz with all original documents",
       "price": 500000
     }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "username": "test",
+      "password": "test"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "test",
+      "password": "test"
+    }
   ]
 }
-
-
